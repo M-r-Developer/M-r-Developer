@@ -29,18 +29,18 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,sql,html,css,excel,c,c++,github,git,figma,xd,photoshop,python,java,javascript,mysql,sqlite&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,excel,c,c++,github,git,figma,xd,photoshop,python,java,javascript,mysql,sqlite&perline=6)](https://skillicons.dev)
 
 
 ### GitHub Stats:
-![Muhammad Usman GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzair76&show_icons=true&theme=dark)
+![Muhammad Usman GitHub stats](https://github-readme-stats.vercel.app/api?username=M-r-Developer&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-r-Developer&theme=dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Uzair76&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=M-r-Developer&theme=dark&hide_border=false)<br/>
 
 ### GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Uzair76&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=M-r-Developer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Uzair76&icon=0&color=0)](https://visitcount.itsvg.in)
