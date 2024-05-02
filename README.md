@@ -2,18 +2,18 @@
 
  ### About Me:
 - 🔭 I'm an Aspirant Data Scientest.
-- 🌱 Currently, I'm expanding my skills into Data Analysis, Machine learing.
-- 💬 Feel free to ask me anything about Flutter 
-- 📫 You can reach me at riazuzair64@gmail.com
+- 🌱 Currently, I'm expanding my skills into Data Analysis, Machine learning, AI and Data Science.
+- 💬 I'm happy to assist you in any task related to Data Analytics/Science. 
+- 📫 You can reach me at usmanzaman83@gmail.com
 - 🎯 Always striving to improve my coding skills and learn new technologies.
 
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/uzair76">
+  <a href="https://github.com/M-r-Developer">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
- <a href="https://www.linkedin.com/in/flutterdeveloperuzair/">
+ <a href="https://pk.linkedin.com/in/usmanthedatascientist/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
   </a>
@@ -29,13 +29,13 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd,photoshop,python,java,javascript,mysql,sqlite&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sql,html,css,excel,c,c++,github,git,figma,xd,photoshop,python,java,javascript,mysql,sqlite&perline=6)](https://skillicons.dev)
 
 
 ### GitHub Stats:
-![Muhammad Uzair GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzair76&show_icons=true&theme=dark)
+![Muhammad Usman GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzair76&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair76&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-r-Developer&theme=dark)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Uzair76&theme=dark&hide_border=false)<br/>
 
@@ -47,4 +47,4 @@
 
 
 <br>
-⭐️ From [Muhammad Uzair](https://github.com/Uzair76)
+⭐️ From [Muhammad Usman](https://github.com/M-r-Developer)
